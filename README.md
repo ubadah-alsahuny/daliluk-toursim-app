@@ -1,6 +1,6 @@
 # 🗺 Daliluk: Tourism App
-A tourism mobile application based in the governette of Aleppo, using **Flutter** and **Dart** as the <ins>Frontend</ins>, and **Laravel Sanctum** as the <ins>Backend</ins>.
-I built this project as a first in my Hands-On-Practice journey; to invest more in Backend API fetches, dealing with user authentications, and building a smooth user interface and experience.
+A tourism mobile application based in the governette of Aleppo, using **Flutter** and **Dart** as the <ins>Frontend</ins>, and **Laravel Sanctum** as the <ins>Backend</ins>.  
+I built this project as a first in my Hands-On-Practice journey; to invest more in Backend API fetches, dealing with user authentications, and building a smooth user interface and experience.  
 
 ## 📦 Technologies
 > Flutter
@@ -10,9 +10,9 @@ I built this project as a first in my Hands-On-Practice journey; to invest more 
 
 ## ✨ Features
 Here is what Daliluk has to offer for a user located in Aleppo:
-- Category-based Locations: Places are organized inside categories, which makes the process of searching for a place much easier, faster, and smoother.
-* Place's Details Provider: A page that lets teh user know everything about the place they are going to visit before doing so, by displaying information, such as, (Name, Description, Rating, Location, Images).
-+ Recommendations For The Confused: In the Home Page, the application has a section that filters out all the palces that you can spend out in nature and not in closed spaces.
+- Category-based Locations: Places are organized inside categories, which makes the process of searching for a place much easier, faster, and smoother.  
+* Place's Details Provider: A page that lets teh user know everything about the place they are going to visit before doing so, by displaying information, such as, (Name, Description, Rating, Location, Images).  
++ Recommendations For The Confused: In the Home Page, the application has a section that filters out all the palces that you can spend out in nature and not in closed spaces.  
 
 ## 👨🏽‍🍳 The Process
 First, I started brainstorming and looking for aesthetically pleasing designs over the internet for similar applications. I started noting down noticable features that can a user go "Wow! This app looks good".
