@@ -1,5 +1,5 @@
 # 🗺 Daliluk: Tourism App
-A tourism mobile application based in the governette of Aleppo, using **Flutter** and **Dart** as the <ins>Frontend</ins>, and **Laravel Sanctum** as the <ins>Backend</ins>.  
+A tourism mobile application based in the Governorate of Aleppo, using **Flutter** and **Dart** as the <ins>Frontend</ins>, and **Laravel Sanctum** as the <ins>Backend</ins>.  
 I built this project as a first in my Hands-On-Practice journey; to invest more in Backend API fetches, dealing with user authentications, and building a smooth user interface and experience.  
 
 ## 📦 Technologies
