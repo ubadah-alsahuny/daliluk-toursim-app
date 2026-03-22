@@ -40,4 +40,8 @@ Throughout my reserach for the best design and UIs for a user, I came across a l
 - Adding a Dark Theme.  
 * A built-in recommendation system based on what the user's search history.  
 
-## 📽 Video:  
+## 📽 Video (quality is low because of GitHub's file size requirments):  
+
+
+https://github.com/user-attachments/assets/b60433ec-45ea-4093-96bc-adbcb1d9f9ae
+
